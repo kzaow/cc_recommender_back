@@ -1,0 +1,52 @@
+{
+    "redemption": [
+        "redeem",
+        "redemption",
+        "redeemed",
+        "redeemable"
+    ],
+    "technology": [
+        "app",
+        "availability",
+        "site",
+        "website",
+        "technology",
+        "iphone",
+        "ios",
+        "technology",
+        "tech",
+        "ux",
+        "interface",
+        "android",
+        "chat",
+        "infrastructure"
+    ],
+    "test": [
+        "secure"
+    ],
+    "security": [
+        "fraud",
+        "fraud detection",
+        "identity",
+        "alerts",
+        "insecure",
+        "secure",
+        "security"
+    ],
+    "customer_service": [
+        "customer service",
+        "customer support",
+        "customer care",
+        "service",
+        "support"
+    ],
+    "credit_building": [
+        "credit",
+        "building",
+        "rebuild",
+        "bad credit",
+        "easy approve",
+        "bankruptcy",
+        "student"
+    ]
+}

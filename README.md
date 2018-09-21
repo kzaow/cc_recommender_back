@@ -1,2 +1,2 @@
-# cc_recommender_back
-Credit Card Recommender
+# cc__recommender_back
+cc recommender back end

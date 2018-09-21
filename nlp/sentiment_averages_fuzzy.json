@@ -1,0 +1,1266 @@
+{
+    "0": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "1": {
+        "customer_service": 0.6355284617176471,
+        "test": 0.45015509505882356,
+        "redemption": 0.645970918225,
+        "security": 0.36868815121463416,
+        "technology": 0.4727186483797101,
+        "credit_building": 0.5592861270888223
+    },
+    "2": {
+        "customer_service": 0.6525015620159662,
+        "test": 0.5242645052033335,
+        "redemption": 0.4746484291842105,
+        "security": 0.5229035889803277,
+        "technology": 0.5747768302563758,
+        "credit_building": 0.578913468528429
+    },
+    "3": {
+        "customer_service": 0.7329327902500001,
+        "test": -1,
+        "redemption": 0.5692344705,
+        "security": 0.6689875697,
+        "technology": 0.5414461493600001,
+        "credit_building": 0.6665681912714285
+    },
+    "4": {
+        "customer_service": 0.6420378722962965,
+        "test": 0.7238609045750001,
+        "redemption": 0.49204095826000005,
+        "security": 0.3377044639611111,
+        "technology": 0.5427563248285715,
+        "credit_building": 0.5889532767967213
+    },
+    "5": {
+        "customer_service": 0.5428207363660378,
+        "test": 0.9358219504,
+        "redemption": 0.41598338775,
+        "security": 0.457903523,
+        "technology": 0.4132937662300001,
+        "credit_building": 0.5888804932830508
+    },
+    "6": {
+        "customer_service": 0.1783860947375,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": 0.23764631368333336,
+        "credit_building": 0.28898055366
+    },
+    "7": {
+        "customer_service": 0.8999647379000001,
+        "test": 0.8471872807,
+        "redemption": -1,
+        "security": 0.8471872807,
+        "technology": 0.8480714162333335,
+        "credit_building": 0.5995271808166667
+    },
+    "8": {
+        "customer_service": 0.0267912298,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": 0.8603769839000001
+    },
+    "9": {
+        "customer_service": 0.6836184058093749,
+        "test": 0.5836108476,
+        "redemption": 0.46418318150000004,
+        "security": 0.47516280674000005,
+        "technology": 0.5899516073875001,
+        "credit_building": 0.5744547912991871
+    },
+    "10": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "11": {
+        "customer_service": 0.6425231195333333,
+        "test": -1,
+        "redemption": 0.0091885263,
+        "security": 0.6123161961333333,
+        "technology": 0.8341072499500001,
+        "credit_building": 0.7543137272111111
+    },
+    "12": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "13": {
+        "customer_service": 0.5221873857,
+        "test": -1,
+        "redemption": -1,
+        "security": 0.1726871133,
+        "technology": 0.46952247990000007,
+        "credit_building": 0.5509634738266667
+    },
+    "14": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "15": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "16": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "17": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "18": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "19": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "20": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "21": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "22": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "23": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "24": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "25": {
+        "customer_service": 0.6081712713860465,
+        "test": 0.4294134937214286,
+        "redemption": 0.700264071675,
+        "security": 0.4759246144619048,
+        "technology": 0.6906600824777778,
+        "credit_building": 0.5990986129990867
+    },
+    "26": {
+        "customer_service": 0.5728651063785714,
+        "test": 0.28030383585,
+        "redemption": 0.4194648147227273,
+        "security": 0.31469531418333335,
+        "technology": 0.414401788725,
+        "credit_building": 0.5841249296904761
+    },
+    "27": {
+        "customer_service": 0.6488969229545455,
+        "test": 0.718475093125,
+        "redemption": 0.67946097255,
+        "security": 0.7538332211000001,
+        "technology": 0.5495114901437501,
+        "credit_building": 0.6087877053645161
+    },
+    "28": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": 0.0552015584,
+        "technology": 0.22942779492500004,
+        "credit_building": 0.2845959947625
+    },
+    "29": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "30": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "31": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "32": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "33": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": 0.0031918276
+    },
+    "34": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "35": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "36": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "37": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "38": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "39": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "40": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "41": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "42": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "43": {
+        "customer_service": 0.9851089716,
+        "test": 0.6101842591384616,
+        "redemption": -1,
+        "security": 0.5013701052294118,
+        "technology": 0.8452247977,
+        "credit_building": 0.5401009218555557
+    },
+    "44": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "45": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "46": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "47": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "48": {
+        "customer_service": 0.35170571430555553,
+        "test": 0.39537243545,
+        "redemption": 0.3966544342250001,
+        "security": 0.2380911329296296,
+        "technology": 0.49451215146428573,
+        "credit_building": 0.42900834143750005
+    },
+    "49": {
+        "customer_service": 0.66604184956,
+        "test": 0.4203953743,
+        "redemption": 0.7203970650666668,
+        "security": 0.1441260151,
+        "technology": 0.4975504954375,
+        "credit_building": 0.4396206625071428
+    },
+    "50": {
+        "customer_service": 0.48389028812857143,
+        "test": -1,
+        "redemption": -1,
+        "security": 0.5457997769,
+        "technology": 0.4918503635,
+        "credit_building": 0.44021563073400005
+    },
+    "51": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "52": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "53": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "54": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "55": {
+        "customer_service": 0.19202617508,
+        "test": -1,
+        "redemption": 0.05651052300000001,
+        "security": 0.2509107888,
+        "technology": 0.241501414875,
+        "credit_building": 0.24641496882222225
+    },
+    "56": {
+        "customer_service": 0.0156461317,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": 0.0103932859
+    },
+    "57": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "58": {
+        "customer_service": 0.0413017058,
+        "test": 0.6164051890000001,
+        "redemption": -1,
+        "security": 0.48372648653333333,
+        "technology": 0.3784971907666667,
+        "credit_building": 0.5815873999409091
+    },
+    "59": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "60": {
+        "customer_service": 0.788453064875,
+        "test": -1,
+        "redemption": -1,
+        "security": 0.44920548795000004,
+        "technology": 0.5386127188000001,
+        "credit_building": 0.6197537503864865
+    },
+    "61": {
+        "customer_service": 0.2595995874,
+        "test": -1,
+        "redemption": 0.07733273596666666,
+        "security": 0.7480152845,
+        "technology": 0.0644887984,
+        "credit_building": 0.0881550076
+    },
+    "62": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "63": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "64": {
+        "customer_service": 0.436439991,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": 0.4524564594
+    },
+    "65": {
+        "customer_service": 0.5985912622107143,
+        "test": 0.5379299116857144,
+        "redemption": 0.5256912203358975,
+        "security": 0.39210867022,
+        "technology": 0.6319154727454547,
+        "credit_building": 0.6275082559286459
+    },
+    "66": {
+        "customer_service": 0.6959076783387754,
+        "test": 0.5266298024666667,
+        "redemption": 0.6206493618600001,
+        "security": 0.5230194611476191,
+        "technology": 0.7481629974388236,
+        "credit_building": 0.6003345947846294
+    },
+    "67": {
+        "customer_service": 0.7470467658076925,
+        "test": 0.5929329527666667,
+        "redemption": 0.8337152749250001,
+        "security": 0.49317155871499996,
+        "technology": 0.775518924882353,
+        "credit_building": 0.5595244718786206
+    },
+    "68": {
+        "customer_service": 0.6631358221114035,
+        "test": 0.5744135153198348,
+        "redemption": 0.8980526328000001,
+        "security": 0.5191422506269625,
+        "technology": 0.6565558207982248,
+        "credit_building": 0.5909186391217583
+    },
+    "69": {
+        "customer_service": 0.676289834130337,
+        "test": 0.5274149518852631,
+        "redemption": 0.7578441501000001,
+        "security": 0.479250612370339,
+        "technology": 0.6750284702929203,
+        "credit_building": 0.5907126608880925
+    },
+    "70": {
+        "customer_service": 0.8748498360199999,
+        "test": 0.6779531935777778,
+        "redemption": 0.9545339643999999,
+        "security": 0.6190221992689655,
+        "technology": 0.82540675252,
+        "credit_building": 0.6595570884029704
+    },
+    "71": {
+        "customer_service": 0.6574709210915968,
+        "test": 0.5313726250195036,
+        "redemption": -1,
+        "security": 0.49375786995694054,
+        "technology": 0.6364232161435484,
+        "credit_building": 0.5499786746652234
+    },
+    "72": {
+        "customer_service": 0.39350174392500004,
+        "test": -1,
+        "redemption": 0.9557870626,
+        "security": -1,
+        "technology": 0.7359585762,
+        "credit_building": 0.435095880462
+    },
+    "73": {
+        "customer_service": 0.45766168830000004,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": 0.3008078048166667
+    },
+    "74": {
+        "customer_service": 0.0027846445,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "75": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "76": {
+        "customer_service": 0.8937216103000001,
+        "test": 0.49594035740000003,
+        "redemption": -1,
+        "security": 0.4985569442166667,
+        "technology": -1,
+        "credit_building": 0.5134322775586208
+    },
+    "77": {
+        "customer_service": 0.5391312649712121,
+        "test": 0.5293009867895834,
+        "redemption": 0.7092386970866666,
+        "security": 0.4255573651220931,
+        "technology": 0.5266337687465117,
+        "credit_building": 0.5557181131715824
+    },
+    "78": {
+        "customer_service": 0.6224251333649122,
+        "test": 0.5438928636625,
+        "redemption": 0.7617065661750001,
+        "security": 0.48078602715714286,
+        "technology": 0.5283023711258427,
+        "credit_building": 0.6261161063037578
+    },
+    "79": {
+        "customer_service": 0.45992459459841273,
+        "test": 0.9391567111,
+        "redemption": 0.9694671631,
+        "security": 0.5784663252166667,
+        "technology": 0.4123981724022727,
+        "credit_building": 0.4462556387050421
+    },
+    "80": {
+        "customer_service": 0.6792777049242422,
+        "test": 0.6672115406153848,
+        "redemption": 0.64060684945,
+        "security": 0.4949904821000002,
+        "technology": 0.5414965240962026,
+        "credit_building": 0.5735494608664151
+    },
+    "81": {
+        "customer_service": 0.4003490596151515,
+        "test": 0.48569776114999996,
+        "redemption": 0.5954681456200001,
+        "security": 0.27002402094,
+        "technology": 0.45861546223157895,
+        "credit_building": 0.5455661148584616
+    },
+    "82": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "83": {
+        "customer_service": 0.3859133425272727,
+        "test": 0.7254465818,
+        "redemption": 0.3002259135,
+        "security": 0.51618514705,
+        "technology": 0.47566972823846165,
+        "credit_building": 0.49556124222857134
+    },
+    "84": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": 0.5045880824000001
+    },
+    "85": {
+        "customer_service": 0.0636025785,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": 0.1232284009,
+        "credit_building": 0.20691363510000002
+    },
+    "86": {
+        "customer_service": 0.34712488515,
+        "test": 0.8088130355,
+        "redemption": -1,
+        "security": 0.3255174652,
+        "technology": 0.40511445083333336,
+        "credit_building": 0.49246404042499997
+    },
+    "87": {
+        "customer_service": 0.13004294223333332,
+        "test": -1,
+        "redemption": 0.7500143051,
+        "security": -1,
+        "technology": 0.2211571485,
+        "credit_building": 0.4094020605111111
+    },
+    "88": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "89": {
+        "customer_service": 0.39105717804000006,
+        "test": -1,
+        "redemption": 0.3579583752,
+        "security": -1,
+        "technology": 0.24665708005,
+        "credit_building": 0.52023367585
+    },
+    "90": {
+        "customer_service": 0.008527969166666668,
+        "test": -1,
+        "redemption": 0.3434574902,
+        "security": -1,
+        "technology": 0.1544636935,
+        "credit_building": 0.021800731933333335
+    },
+    "91": {
+        "customer_service": 0.9290922284,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": 0.2441208661
+    },
+    "92": {
+        "customer_service": 0.41503396398750003,
+        "test": 0.6764809382571428,
+        "redemption": -1,
+        "security": 0.6447167423400001,
+        "technology": 0.29907951542,
+        "credit_building": 0.4442261208933333
+    },
+    "93": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "94": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "95": {
+        "customer_service": 0.335546956375,
+        "test": -1,
+        "redemption": 0.0905493051,
+        "security": 0.6926658154,
+        "technology": 0.34400812084285715,
+        "credit_building": 0.4722266187
+    },
+    "96": {
+        "customer_service": 0.6278903451928574,
+        "test": -1,
+        "redemption": 0.7858653436333333,
+        "security": 0.0622923523,
+        "technology": 0.5096619640142858,
+        "credit_building": 0.6293416137780488
+    },
+    "97": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "98": {
+        "customer_service": 0.151191708175,
+        "test": -1,
+        "redemption": -1,
+        "security": 0.8668392897,
+        "technology": 0.3504359126,
+        "credit_building": 0.6502552330666668
+    },
+    "99": {
+        "customer_service": 0.7126655642342106,
+        "test": 0.4454102091647059,
+        "redemption": 0.7077597684454545,
+        "security": 0.4013076624093024,
+        "technology": 0.6737726152320389,
+        "credit_building": 0.5938497374989051
+    },
+    "100": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": 0.11708978560000001
+    },
+    "101": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "102": {
+        "customer_service": 0.4037072957,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": 0.5957244635000001,
+        "credit_building": 0.577465411688889
+    },
+    "103": {
+        "customer_service": 0.92171046735,
+        "test": -1,
+        "redemption": 0.8230540156333334,
+        "security": 0.27584022935,
+        "technology": 0.7354330335285715,
+        "credit_building": 0.6605856439144928
+    },
+    "104": {
+        "customer_service": 0.7609065420590909,
+        "test": 0.5890429726072463,
+        "redemption": 0.78413490058,
+        "security": 0.540552908121591,
+        "technology": 0.5750244338518519,
+        "credit_building": 0.6601396669193353
+    },
+    "105": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "106": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "107": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "108": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "109": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "110": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "111": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "112": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "113": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "114": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "115": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "116": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "117": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "118": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "119": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "120": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "121": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "122": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "123": {
+        "customer_service": -1,
+        "test": 0.9524291158,
+        "redemption": 0.99699682,
+        "security": 0.5940871238666666,
+        "technology": 0.30110253102222223,
+        "credit_building": 0.43070925737000004
+    },
+    "124": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "125": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "126": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "127": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "128": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "129": {
+        "customer_service": 0.29559288782,
+        "test": 0.7685889602,
+        "redemption": 0.38546666500000004,
+        "security": 0.7685889602,
+        "technology": 0.968223691,
+        "credit_building": 0.5517966821899999
+    },
+    "130": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "131": {
+        "customer_service": 0.0028654346000000002,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": 0.1521366686,
+        "credit_building": 0.5892922125133334
+    },
+    "132": {
+        "customer_service": 0.42239184974074073,
+        "test": 0.61488645518169,
+        "redemption": 0.8517552018500001,
+        "security": 0.5784203756060976,
+        "technology": 0.5631957366125,
+        "credit_building": 0.5590326445515151
+    },
+    "133": {
+        "customer_service": 0.206109345,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": 0.6510475663166667
+    },
+    "134": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "135": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": 0.7685751080600001
+    },
+    "136": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "137": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "138": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "139": {
+        "customer_service": 0.307908816537037,
+        "test": -1,
+        "redemption": -1,
+        "security": 0.27934953578000005,
+        "technology": 0.3665807235857143,
+        "credit_building": 0.5703492714070422
+    },
+    "140": {
+        "customer_service": 0.34993348664545454,
+        "test": 0.49341712566250007,
+        "redemption": 0.4508588839119048,
+        "security": 0.2986551026892857,
+        "technology": 0.4808818867209091,
+        "credit_building": 0.4538803481430524
+    },
+    "141": {
+        "customer_service": 0.3212806622681818,
+        "test": 0.9349386394000001,
+        "redemption": 0.34493426727777776,
+        "security": 0.8849289020000001,
+        "technology": 0.4570101505523809,
+        "credit_building": 0.4642068559280702
+    },
+    "142": {
+        "customer_service": 0.189205190875,
+        "test": -1,
+        "redemption": -1,
+        "security": 0.9661368132,
+        "technology": 0.0132178329,
+        "credit_building": 0.42054193840000004
+    },
+    "143": {
+        "customer_service": 0.0191920176,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": 0.19235595500000002
+    },
+    "144": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "145": {
+        "customer_service": 0.015123454516666667,
+        "test": -1,
+        "redemption": 0.39586354220000003,
+        "security": 0.0019234602000000002,
+        "technology": 0.23777780052500003,
+        "credit_building": 0.21864928336666667
+    },
+    "146": {
+        "customer_service": 0.3917204402285714,
+        "test": -1,
+        "redemption": 0.78960315385,
+        "security": 0.1540914625,
+        "technology": 0.46827272326666664,
+        "credit_building": 0.5024151447
+    },
+    "147": {
+        "customer_service": 0.2776646552888889,
+        "test": -1,
+        "redemption": 0.27397684195,
+        "security": 0.0231536534,
+        "technology": 0.47615762055000005,
+        "credit_building": 0.4968584357888889
+    },
+    "148": {
+        "customer_service": 0.7684719388666666,
+        "test": -1,
+        "redemption": 0.7078986764,
+        "security": -1,
+        "technology": 0.5814855974199999,
+        "credit_building": 0.7619526083755102
+    },
+    "149": {
+        "customer_service": 0.3430193407275862,
+        "test": -1,
+        "redemption": 0.9543594122000001,
+        "security": 0.33632689610000005,
+        "technology": 0.3647690481043479,
+        "credit_building": 0.43650524578818906
+    },
+    "150": {
+        "customer_service": 0.034440368400000004,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": 0.034440368400000004,
+        "credit_building": -1
+    },
+    "151": {
+        "customer_service": 0.024992874533333334,
+        "test": -1,
+        "redemption": 0.1409539878,
+        "security": -1,
+        "technology": -1,
+        "credit_building": 0.0161606111
+    },
+    "152": {
+        "customer_service": 0.23435695475468749,
+        "test": 0.015078689000000001,
+        "redemption": 0.4723026044600001,
+        "security": 0.11885369277199999,
+        "technology": 0.20138684407600002,
+        "credit_building": 0.4077206656481482
+    },
+    "153": {
+        "customer_service": -1,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "154": {
+        "customer_service": 0.0058473684000000005,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "155": {
+        "customer_service": 0.15912326895,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": -1,
+        "credit_building": -1
+    },
+    "156": {
+        "customer_service": 0.0043404321000000004,
+        "test": -1,
+        "redemption": -1,
+        "security": -1,
+        "technology": 0.011613043,
+        "credit_building": 0.2456912249
+    },
+    "157": {
+        "customer_service": 0.25906498336363637,
+        "test": 0.43976121482499997,
+        "redemption": -1,
+        "security": 0.44180494169756096,
+        "technology": 0.37303198587777786,
+        "credit_building": 0.4834838955426087
+    }
+}
